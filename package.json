@@ -4,5 +4,24 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "morgan": "^1.10.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "backend2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabeel9621/calculator.git"
+  },
+  "keywords": [],
+  "author": "sabeel khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabeel9621/calculator/issues"
+  },
+  "homepage": "https://github.com/sabeel9621/calculator#readme",
+  "description": ""
 }
